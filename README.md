@@ -10,5 +10,12 @@ Mods for sma uvgen leakage
 debug ./uvgen.for
 ```
 
-### Run with 
+### Also needs
+1. Source file
+2. Array configuration file
+
+### See example 
+```
+uvg_noprompt.csh
+``` 
 
