@@ -1,8 +1,0 @@
-0. Prereqs
--- Able to run miriad
--- Able to build miriad programs (needs gcc/g77 etc)
-
-1. Build with
--- debug ./uvgen.for
-
-
