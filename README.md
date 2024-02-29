@@ -7,3 +7,6 @@ Mods for sma uvgen leakage
 
 1. Build with
 -- debug ./uvgen.for
+
+2. Run with 
+

@@ -47,7 +47,7 @@ set pnoise=0
 endif
 
 set UVGENDIR="."
-set UVGENDIR="/home/rrao/repos/miriad-uvgen-sma-leakage"
+set UVGENDIR="~/repos/miriad-uvgen-sma-leakage"
 
 \rm -fr cal_dataset source_dataset
 $UVGENDIR/uvgen source=calib.so ant=$ant baseunit=$baseunit telescop=nasmyth,45 corr=0 \
